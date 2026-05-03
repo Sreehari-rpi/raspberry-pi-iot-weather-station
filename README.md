@@ -40,3 +40,13 @@ This project is an IoT-based weather monitoring system using Raspberry Pi. It co
 ---
 
 ## 🌐 Dashboard Access
+http://<raspberry-pi-ip>:5000
+
+
+---
+
+## 🔮 Future Improvements
+- Cloud data storage (Google Sheets / Firebase)
+- Mobile app integration
+- Weather forecasting using API
+- Graph-based data visualization
